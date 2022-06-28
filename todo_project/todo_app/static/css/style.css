@@ -1,14 +1,29 @@
-
-
-.list_item{
-    border: 5px solid black;
-}
-
-.list{
-    padding-top: 30px;
+.frame{
+    text-align: center;
 }
 
 .form{
-    align-items: center;
+    width: 30%;
+    text-align: center;
+    padding-bottom: 30px;
 }
 
+.list{
+    width: 30%;
+    text-align: center;
+}
+
+.list_item{
+    border: 3px solid black;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+
+.title{
+    font-size: 30px;
+}
+
+.description{   
+    font-size: 20px;
+}
